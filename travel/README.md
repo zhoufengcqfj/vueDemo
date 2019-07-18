@@ -28,3 +28,8 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+# index.html文件下配置该属性 
+ <meta name="viewport" content="width=device-width,initial-scale=1.0,
+                         minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"> 
